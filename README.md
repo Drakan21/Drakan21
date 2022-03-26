@@ -14,7 +14,7 @@
   - ??
   
 - 📫 How to reach me ...
-  - twitter/@drakanion
+  - [@drakanion] (https://twitter.com/@drakanion)
 
 <!---
 Drakan21/Drakan21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
